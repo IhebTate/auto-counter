@@ -1,0 +1,5 @@
+pyperclip
+discord
+colorama
+tqdm
+trange
